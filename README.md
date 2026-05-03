@@ -304,7 +304,7 @@ If you'd like to contribute back to the core, you can [fork this repository](htt
 
 If you are new to Git or GitHub, please read [this guide](https://help.github.com/) first.
 
-Contribution of all kinds is welcome. Please read [Contributing.md](https://github.com/rikulo/socket.io-client-dart/blob/master/contributing.md) in this repository.
+Contribution of all kinds is welcome. Please read [Contributing.md](https://github.com/reinbeumer/socket.io-client-dart/blob/master/contributing.md) in this repository.
 
 ## Who Uses
 
@@ -313,10 +313,10 @@ Contribution of all kinds is welcome. Please read [Contributing.md](https://gith
 
 ## Socket.io Dart Server
 
-- [socket.io-dart](https://github.com/rikulo/socket.io-dart)
+- [socket.io-dart](https://github.com/reinbeumer/socket.io-dart)
 
 ## Contributors
 
-<a href="https://github.com/rikulo/socket.io-client-dart/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rikulo/socket.io-client-dart" />
+<a href="https://github.com/reinbeumer/socket.io-client-dart/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=reinbeumer/socket.io-client-dart" />
 </a>
